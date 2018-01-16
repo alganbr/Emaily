@@ -3,4 +3,3 @@ node_modules
 
 # Hide keys
 dev.js
-client/.env.*
